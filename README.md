@@ -24,5 +24,5 @@
 
 ###  GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dina-Elmowafy&show_icons=true&theme=radium&hide_border=true" alt="Dina's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Dina-Elmowafy&theme=radium&hide_border=true" alt="Dina's GitHub Stats" />
 </p>
