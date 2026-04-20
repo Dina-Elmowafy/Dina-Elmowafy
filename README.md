@@ -5,12 +5,12 @@
   Turning complex logic into scalable REST APIs and building seamless user experiences.
 </p>
 
-- 🔭 I’m currently building robust **Spring Boot REST APIs** and scalable architectures.
-- 🌱 I’m constantly learning and diving deeper into **Clean Architecture, Microservices, and AI Integration**.
-- 💼 Actively looking for **Backend/Full-Stack Internship or Junior roles**.
-- 📫 How to reach me: Drop a message on my LinkedIn!
+-  I’m currently building robust **Spring Boot REST APIs** and scalable architectures.
+-  I’m constantly learning and diving deeper into **Clean Architecture, Microservices, and AI Integration**.
+-  Actively looking for **Backend/Full-Stack Internship or Junior roles**.
+-  How to reach me: Drop a message on my LinkedIn!
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dina-Elmowafy&show_icons=true&theme=radium&hide_border=true" alt="Dina's GitHub Stats" />
 </p>
