@@ -1,28 +1,49 @@
-<h1 align="center">Hi there, I'm Dina! 👋</h1>
-<h3 align="center">Software Engineer | Backend & Full-Stack Developer</h3>
+<h1 align="center">Dina Abdelghany</h1>
+<h3 align="center">Junior Java Backend Developer</h3>
 
 <p align="center">
-  Turning complex logic into scalable REST APIs and building seamless user experiences.
+  Computer Science graduate focused on Java, Spring Boot, REST APIs, and backend business logic.
 </p>
 
--  I’m currently building robust **Spring Boot REST APIs** and scalable architectures.
--  I’m constantly learning and diving deeper into **Clean Architecture, Microservices, and AI Integration**.
--  Actively looking for **Backend/Full-Stack Internship or Junior roles**.
--  How to reach me: Drop a message on my LinkedIn!
+## About
 
-###  Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+I build backend applications with **Java and Spring Boot**, with a focus on clean business logic, RESTful APIs, data handling, and reliable transaction flows.
 
-###  GitHub Stats:
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dina-Elmowafy&theme=radium&hide_border=true" alt="Dina's GitHub Stats" />
-</p>
+My projects include financial transaction systems, fraud detection, authentication, database integration, API documentation, and layered backend architecture.
+
+Currently focused on growing as a **Java Backend Developer** and building production-minded backend projects.
+
+## Tech Stack
+
+**Languages:** Java, C++, Python  
+**Backend:** Spring Boot, Spring MVC, REST APIs, Spring Data JPA, Hibernate  
+**Databases:** Oracle Database, MySQL, SQL, H2  
+**Tools:** Git, GitHub, Maven, Swagger / OpenAPI, Postman  
+**Core:** OOP, Data Structures, Algorithms, Exception Handling, Debugging
+
+## Featured Projects
+
+### Fraud Detection System
+Spring Boot backend for banking transfers with rule-based fraud detection, transaction validation, audit logging, fraud alerts, idempotency keys, pagination, and pessimistic locking.
+
+[View Repository](https://github.com/Dina-Elmowafy/Fraud-Detection-System)
+
+### E-Wallet System API
+RESTful e-wallet backend with authentication, account validation, deposits, withdrawals, transfers, transaction history, admin account management, DTOs, and layered architecture.
+
+[View Repository](https://github.com/Dina-Elmowafy/Ewallet-System-SpringBoot-API)
+
+### Smart Library API
+Spring Boot backend for the Retivio smart library project, organized around controllers, services, repositories, models, exception handling, and REST API development.
+
+[View Repository](https://github.com/Dina-Elmowafy/Retivio-Smart-Library-API)
+
+## Problem Solving
+
+- 300+ algorithmic problems solved on Codeforces
+- Participated in the Egyptian Collegiate Programming Contest (ECPC)
+- Strong foundation in algorithms, data structures, and object-oriented programming
+
+## Connect
+
+[LinkedIn](https://eg.linkedin.com/in/dina-elmowafy-43194a15) · [GitHub](https://github.com/Dina-Elmowafy)
