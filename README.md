@@ -4,7 +4,7 @@
 
 Computer Science graduate focused on building backend applications with Java and Spring Boot. Interested in REST APIs, transaction handling, and maintainable service design.
 
-[Email](mailto:dina.abdelghany.000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dina-elmowafy-43194a15)
+[Email](mailto:dina.abdelghany.000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dina-abdelghany)
 
 ## Featured projects
 
@@ -33,4 +33,4 @@ Spring Boot library API with endpoints for books, users, borrowing history, revi
 ## Contact
 
 - Email: [dina.abdelghany.000@gmail.com](mailto:dina.abdelghany.000@gmail.com)
-- LinkedIn: [linkedin.com/in/dina-elmowafy-43194a15](https://www.linkedin.com/in/dina-elmowafy-43194a15)
+- LinkedIn: [linkedin.com/in/dina-elmowafy-43194a15](https://www.linkedin.com/in/dina-abdelghany)
