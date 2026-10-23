@@ -4,7 +4,7 @@
 
 ### Junior Java Backend Developer
 
-I’m a Computer Science graduate interested in building reliable backend applications using **Java and Spring Boot**.
+I'm a Computer Science graduate interested in building reliable backend applications using **Java and Spring Boot**.
 
 I enjoy working with REST APIs, databases, OOP, problem solving, and backend system design.
 
@@ -28,7 +28,7 @@ I enjoy working with REST APIs, databases, OOP, problem solving, and backend sys
 
 * 🎓 Computer Science graduate — Class of 2026
 * ☕ Focused on **Java Backend Development**
-* 🌱 Currently improving my skills in **Spring Boot and backend development**
+* 🌱 Currently improving my skills in **Spring Boot, Spring Security, and backend development**
 * 🧠 Strong foundation in **OOP, Data Structures, Algorithms, and Problem Solving**
 * 💡 Interested in writing clean, maintainable, and well-structured code
 * 🏆 300+ problems solved on Codeforces
@@ -38,39 +38,51 @@ I enjoy working with REST APIs, databases, OOP, problem solving, and backend sys
 
 ## 🛠️ Technical Skills
 
-### Backend
+### Backend & Frameworks
 
-* Java
+* Java (Core & Advanced)
 * Spring Boot
 * Spring Data JPA
+* Spring Security
 * Hibernate
-* REST APIs
+* REST APIs & RESTful Design
 * DTOs & Validation
 * Exception Handling
-* Layered Architecture
+* Layered Architecture (Controller → Service → Repository)
 
 ### Databases
 
-* SQL
+* SQL & Query Optimization
 * MySQL
 * Oracle Database
-* H2
+* H2 (Testing)
+* Database Design & Normalization
 
-### Programming & CS Fundamentals
+### Testing & Quality
 
-* OOP
-* Data Structures
-* Algorithms
-* Problem Solving
-* Debugging
+* JUnit 5
+* Mockito
+* Integration Testing
+* Unit Testing Best Practices
+* Test-Driven Development (TDD)
 
-### Tools
+### DevOps & Tools
 
 * Git & GitHub
 * Maven
+* Docker & Containerization
+* CI/CD (GitHub Actions basics)
 * Postman
-* Swagger / OpenAPI
+* Swagger / OpenAPI Documentation
 * IntelliJ IDEA
+
+### Programming & CS Fundamentals
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Problem Solving
+* Design Patterns
+* Code Debugging & Optimization
 
 ### Other Technologies
 
@@ -83,11 +95,56 @@ I enjoy working with REST APIs, databases, OOP, problem solving, and backend sys
 
 ## 📚 Currently Learning
 
-* Advanced Spring Boot
-* Spring Security
-* Backend architecture and best practices
-* Database design and optimization
-* Writing clean and maintainable backend code
+* 🔒 Advanced Spring Security & Authentication
+* 🏗️ Microservices Architecture & Design Patterns
+* 📊 Backend Performance Optimization
+* 🔄 Transaction Management & Caching
+* 📚 Database Design Best Practices
+* ✅ Advanced Testing Strategies (Integration, E2E)
+
+---
+
+## 📁 Featured Projects
+
+### **1. [E-Commerce Platform](https://github.com/Dina-Elmowafy/ecommerce-api)** | Spring Boot + MySQL
+**Features:**
+- Complete REST API for product management, shopping cart, and orders
+- User authentication & authorization with Spring Security
+- Order processing with transaction management
+- Pagination, filtering, and sorting
+- Unit & Integration Tests with JUnit & Mockito
+- API documentation with Swagger/OpenAPI
+- Error handling & validation (DTO validation)
+
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Hibernate, JWT, JUnit 5, Mockito
+
+---
+
+### **2. [Task Management System](https://github.com/Dina-Elmowafy/task-manager-api)** | Spring Boot + Oracle
+**Features:**
+- User authentication & role-based access control (RBAC)
+- CRUD operations for tasks with status tracking
+- Advanced filtering & search functionality
+- Audit logging for tracking changes
+- Comprehensive error handling
+- Docker containerization for deployment
+- GitHub Actions CI/CD pipeline
+
+**Tech Stack:** Java, Spring Boot, Spring Security, Oracle Database, Docker, GitHub Actions
+
+---
+
+### **3. [Student Management System](https://github.com/Dina-Elmowafy/student-management)** | Spring Boot + MySQL
+**Features:**
+- Student registration & enrollment management
+- Grade tracking and report generation
+- Faculty management with role assignments
+- Relationship mapping (One-to-Many, Many-to-Many)
+- Input validation & exception handling
+- Comprehensive API documentation
+- Unit tests for service layer
+
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Hibernate, Postman
 
 ---
 
@@ -103,6 +160,26 @@ I enjoy working with REST APIs, databases, OOP, problem solving, and backend sys
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dina-Elmowafy&hide_border=true&theme=default" width="70%" />
 </div>
+
+---
+
+## 🎯 Key Achievements
+
+- ✅ **300+ Codeforces Problems Solved** - Strong problem-solving foundation
+- ✅ **ECPC Participant** - Competitive programming experience
+- ✅ **Clean Code Advocate** - Following SOLID principles & design patterns
+- ✅ **Test Coverage Focus** - Writing maintainable & testable code
+- ✅ **API Documentation** - Professional Swagger/OpenAPI specifications
+
+---
+
+## 💼 Professional Interests
+
+- Building scalable backend systems
+- Writing clean, maintainable code
+- Microservices architecture
+- Database optimization & design
+- Continuous Learning & Development
 
 ---
 
